@@ -3,7 +3,7 @@
 
 本项目为[装扮前排战争-2021.06.13_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1664y167W4)视频对应的代码项目, 是一个装扮的跑马图(bar chart race), 展示了到 2021.06.13 的装扮前百/前十拥有者.
 
-![image-20210724074636289](image/image-20210724074636289.png)
+[![watch_video](image/watch_video.png)](https://www.bilibili.com/video/BV1664y167W4)
 
 
 
